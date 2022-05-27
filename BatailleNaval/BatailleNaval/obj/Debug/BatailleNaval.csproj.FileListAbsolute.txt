@@ -1,0 +1,9 @@
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\bin\Debug\BatailleNaval.exe.config
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\bin\Debug\BatailleNaval.exe
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\bin\Debug\BatailleNaval.pdb
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.csproj.AssemblyReference.cache
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.csproj.CoreCompileInputs.cache
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.exe
+C:\Users\KC_Valpha\Desktop\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.pdb
+C:\Users\180229\Downloads\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.exe
+C:\Users\180229\Downloads\BatailleNaval\BatailleNaval\obj\Debug\BatailleNaval.pdb
